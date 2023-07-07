@@ -1,3 +1,0 @@
-﻿  test.c
-D:\code\C\2023\Program job_2\Program job_2\test.c(238,38): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
-  Program job_2.vcxproj -> D:\code\C\2023\Program job_2\x64\Debug\Program job_2.exe
