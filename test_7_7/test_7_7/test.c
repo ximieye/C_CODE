@@ -1,5 +1,6 @@
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
+
 //while循环，初始化、判断、调整三块比较分散，修改的时候容易出现问题
 //int main()
 //{
@@ -481,5 +482,7 @@ int main()
 
 	return 0;
 }
+
+
 
 
