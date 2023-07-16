@@ -456,13 +456,26 @@
 //	return count;
 //}
 //
+////这个代码是存在一定潜在问题，如果字符串长度是偶数的时候，会出现问题
+////void reverse(char arr[], int left, int right)
+////{
+////	char tmp = arr[left];
+////	arr[left] = arr[right];
+////	arr[right] = tmp;
+////	if (left < right)
+////		reverse(arr, left + 1, right - 1);
+////}
+//
 //void reverse(char arr[], int left, int right)
 //{
-//	char tmp = arr[left];
-//	arr[left] = arr[right];
-//	arr[right] = tmp;
+//	//满足这个条件才交换递归
 //	if (left < right)
+//	{
+//		char tmp = arr[left];
+//		arr[left] = arr[right];
+//		arr[right] = tmp;
 //		reverse(arr, left + 1, right - 1);
+//	}
 //}
 //
 //int main()
