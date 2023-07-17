@@ -1,4 +1,5 @@
 #define _CRT_SECURE_NO_WARNINGS
+
 #include <stdio.h>
 
 //分支和循环语句练习题
