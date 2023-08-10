@@ -1,2 +1,4 @@
 ﻿  test.c
+D:\code\C\2023\test_8_2\test_8_2\test.c(1052,28): warning C4311: “类型强制转换”: 从“int [4]”到“int”的指针截断
+D:\code\C\2023\test_8_2\test_8_2\test.c(1052,32): warning C4312: “类型强制转换”: 从“int”转换到更大的“int *”
   test_8_2.vcxproj -> D:\code\C\2023\test_8_2\x64\Debug\test_8_2.exe
